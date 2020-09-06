@@ -1,4 +1,4 @@
-![Under Construction](under-construction-sign.jpg)
+![Under Construction](https://github.com/smokku/smokku/blob/master/under-construction-sign.jpg)
 
 <!--
 **smokku/smokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
