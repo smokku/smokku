@@ -2,6 +2,12 @@
 
 ![Under Construction](https://github.com/smokku/smokku/blob/master/under-construction-sign.jpg)
 
+## My stuff
+
+- ⌨️ [X65](https://x65.zone/) - Modern 8-bit Microcomputer
+- 🖥️ [D/os](https://github.com/D-os/) - Operating System for workplace computers
+- 🕹️ [Soldank](https://github.com/smokku/soldank) - Clone of Soldat game engine
+
 <!--
 **smokku/smokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
