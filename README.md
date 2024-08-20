@@ -4,10 +4,11 @@
 
 ## My stuff
 
-Other projects, not pinned below, I am actively working on:
+Projects I am actively working on:
 
-- ⌨️ [X65](https://x65.zone/) - Modern 8-bit Microcomputer
-- 🖥️ [D/os](https://github.com/D-os/) - Operating System for workplace computers
+- <img src="https://x65.zone/media/2024-06-24_X65protoBboard.png" width="64" title="protoB pixel-art by Ricketyhalo" /> [X65](https://x65.zone/) - Modern 8-bit Microcomputer
+- <img src="https://github.com/D-os/.github/raw/main/D-os.png" width="64" title="D/os running in QEmu" /> [D/os](https://github.com/D-os/) - Operating System for workplace computers
+
 
 
 <!--
