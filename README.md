@@ -23,7 +23,7 @@
 
 **Native Apps**
 - [pebble](https://github.com/smokku/pebble) ― Unofficial Pebble watch support for SailfishOS/Jolla _{ **C++**, **Qt**, **QML**, **SailfishOS**, **systemd**, **BlueTooth** }_
-- [fbv](https://github.com/smokku/fbv) ― FrameBuffer Viewer) ― simple program to view pictures on a Linux framebuffer device _{ **C**, **Linux**, **FrameBuffer**, **libgif**, **libpng**, **libjpeg** }_
+- [fbv](https://github.com/smokku/fbv) ― FrameBuffer Viewer ― picture viewer for a Linux framebuffer console _{ **C**, **Linux**, **FrameBuffer**, **libgif/png/jpeg** }_
 - [tgt](https://github.com/smokku/tgt) ― TextmodeGUIToolkit ― object-oriented library for creating GUI under Linux console _{ **C**, **NCurses**, **TermCap**, **GUI** }_
 
 **GameDev**
