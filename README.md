@@ -20,7 +20,7 @@ _{ **C++**, **D**, **Linux Binder**, **Wayland** }_
 **Backend / Servers**
 - [rip](https://github.com/smokku/rip) ― REST.Is.Popular - RESTful microframework for Go _{ **GoLang**, **REST** }_
 - [traffx](https://github.com/smokku/traffx) ― Auto-scaleable XMPP server for The Cloud in Node.js _{ **JavaScript**, **Node.js**, **Redis**, **DynamoDB** }_
-- [jabberd2](https://github.com/jabberd2/jabberd2) ― [JabberD XMPP Server](http://jabberd2.org/) _{ **C**, **expat**, **libvidn**, **SQL**, **OpenSSL** }_
+- [jabberd2](https://github.com/jabberd2/jabberd2) ― [JabberD XMPP Server](http://jabberd2.org/) _{ **C**, **expat**, **libidn**, **SQL**, **OpenSSL** }_
 - [jabberd3](https://github.com/smokku/jabberd3) ― jabberd XMPP server - third generation _{ **C**, **bdw-gc**, **expat**, **libidn**, **libuv**, **nanomsg**, **OpenSSL** }_
 
 **Native Apps**
