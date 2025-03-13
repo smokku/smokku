@@ -9,7 +9,7 @@ _{ **C++**, **D**, **Linux Binder**, **Wayland** }_
 
 ## Some of my previous work
 
-**Frontend / WebDev**
+🧭 **Frontend / WebDev**
 - [plate](https://github.com/smokku/plate) ― Declarative proxy layer to access REST API endpoint _{ **JavaScript**, **Redux**, **REST** }_
 - [mst-gql](https://github.com/smokku/mst-gql) ― Bindings for mobx-state-tree and GraphQL _{ **JavaScript**, **MST**, **GraphQL** }_
 - [pokedex](https://github.com/smokku/pokedex) ― Pokédex demo app _{ **MobX State Tree**, **GraphQL**, **Ant Design of React** }_
@@ -17,18 +17,18 @@ _{ **C++**, **D**, **Linux Binder**, **Wayland** }_
 - [wrte](https://github.com/smokku/wrte) ― microkernel-like environment to run untrusted applications in browser _{ **JavaScript**, **kernel**, **sandbox** }_
 - [ThAutoIndex](https://github.com/smokku/ThAutoIndex) ― PHP Thumbnail AutoIndex _{ **PHP**, **libGD**, **MIME** }_
 
-**Backend / Servers**
+🗄️ **Backend / Servers**
 - [rip](https://github.com/smokku/rip) ― REST.Is.Popular - RESTful microframework for Go _{ **GoLang**, **REST** }_
 - [traffx](https://github.com/smokku/traffx) ― Auto-scaleable XMPP server for The Cloud in Node.js _{ **JavaScript**, **Node.js**, **Redis**, **DynamoDB** }_
 - [jabberd2](https://github.com/jabberd2/jabberd2) ― [JabberD XMPP Server](http://jabberd2.org/) _{ **C**, **expat**, **libidn**, **SQL**, **OpenSSL** }_
 - [jabberd3](https://github.com/smokku/jabberd3) ― jabberd XMPP server - third generation _{ **C**, **bdw-gc**, **expat**, **libidn**, **libuv**, **nanomsg**, **OpenSSL** }_
 
-**Native Apps**
+💻 **Native Apps**
 - [pebble](https://github.com/smokku/pebble) ― Unofficial Pebble watch support for SailfishOS/Jolla _{ **C++**, **Qt**, **QML**, **SailfishOS**, **systemd**, **BlueTooth** }_
 - [fbv](https://github.com/smokku/fbv) ― FrameBuffer Viewer ― picture viewer for a Linux framebuffer console _{ **C**, **Linux**, **FrameBuffer**, **libgif/png/jpeg** }_
 - [tgt](https://github.com/smokku/tgt) ― TextmodeGUIToolkit ― object-oriented library for creating GUI under Linux console _{ **C**, **NCurses**, **TermCap**, **GUI** }_
 
-**GameDev**
+🕹️ **GameDev**
 - [soldank](https://github.com/smokku/soldank) ― Clone of Soldat engine written in Rust _{ **Rust**, **ECS**, **Physics**, **GUI**, **OpenGL**, **WebGL**, **WASM** }_
 - [rust_roguelike_tutorial](https://github.com/smokku/rust_roguelike_tutorial) ― Rust Roguelike Tutorial  _{ **Rust**, **Legion ECS**, **RON prefabs**  }_
 - [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence) ― Networking plugin for Bevy engine _{ **Rust**, **WASM**, **WebRTC**, **UDP** }_
