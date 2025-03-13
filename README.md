@@ -1,7 +1,7 @@
 ## Projects I am actively working on:
 
 ### [<img src="https://x65.zone/media/2024-10-17_board-vis.png" width="96" title="X65 dev board" /> X65](https://x65.zone/) - Modern 8-bit Microcomputer
-_{ **C**, **Assembly ARM,6502**, **MCU**, **PCB CAD** }_
+_{ **C**, **Assembly ARM,6502**, **MCU**, **PCB CAD**, **Emulator** for Windows/Linux/Browser,  }_
 ### [<img src="https://github.com/D-os/.github/raw/main/D-os.png" width="96" title="D/os running in QEmu" /> D/os](https://github.com/D-os/) - Operating System for workplace computers
 _{ **C++**, **D**, **Linux Binder**, **Wayland** }_
 
