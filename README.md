@@ -4,6 +4,8 @@
 _{ **C**, **Assembly ARM,6502**, **MCU**, **PCB CAD**, **Emulator** for Windows/Linux/Browser,  }_
 ### [<img src="https://github.com/D-os/.github/raw/main/D-os.png" width="96" title="D/os running in QEmu" /> D/os](https://github.com/D-os/) - Operating System for workplace computers
 _{ **C++**, **D**, **Linux Binder**, **Wayland**, **BeOS Next** }_
+### [<img src="https://github.com/smokku/soldank/raw/master/sshot.png" width="96" title="Soldank on Windows" /> Soldank](https://github.com/smokku/soldank) - Networked Multiplayer Shooter-Platformer game engine
+_{ **Rust**, **ECS**, **Physics**, **GUI**, **OpenGL**, **WebGL**, **WASM** }_
 
 - 👷🏻‍♂️ I am [available for hire](mailto:tomasz@sterna.link).
 
@@ -29,7 +31,6 @@ _{ **C++**, **D**, **Linux Binder**, **Wayland**, **BeOS Next** }_
 - [tgt](https://github.com/smokku/tgt) ― TextmodeGUIToolkit ― object-oriented library for creating GUI under Linux console _{ **C**, **NCurses**, **TermCap**, **GUI** }_
 
 🕹️ **GameDev**
-- [soldank](https://github.com/smokku/soldank) ― Clone of Soldat engine written in Rust _{ **Rust**, **ECS**, **Physics**, **GUI**, **OpenGL**, **WebGL**, **WASM** }_
 - [rust_roguelike_tutorial](https://github.com/smokku/rust_roguelike_tutorial) ― Rust Roguelike Tutorial  _{ **Rust**, **Legion ECS**, **RON prefabs**  }_
 - [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence) ― Networking plugin for Bevy engine _{ **Rust**, **WASM**, **WebRTC**, **UDP** }_
 - [hecs_rapier](https://github.com/smokku/hecs_rapier) ― Physics engine for hecs ECS _{ **Rust**, **Physics**, **ECS** }_
