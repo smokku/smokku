@@ -12,8 +12,8 @@ _{ **Rust**, **ECS**, **Physics**, **GUI**, **OpenGL**, **WebGL**, **WASM** }_
 ## Some of my previous work
 
 🧭 **Frontend / WebDev**
-- [plate](https://github.com/smokku/plate) ― Declarative proxy layer to access REST API endpoint _{ **JavaScript**, **Redux**, **REST** }_
 - [mst-gql](https://github.com/smokku/mst-gql) ― Bindings for mobx-state-tree and GraphQL _{ **JavaScript**, **MST**, **GraphQL** }_
+- [plate](https://github.com/smokku/plate) ― Declarative proxy layer to access REST API endpoint _{ **JavaScript**, **Redux**, **REST** }_
 - [pokedex](https://github.com/smokku/pokedex) ― Pokédex demo app _{ **MobX State Tree**, **GraphQL**, **Ant Design of React** }_
 - [plp-demo](https://github.com/smokku/plp-demo) ― Product Listing Page demo _{ **JavaScript**, **React**, **Redux**, **SASS**, **Flow**, **WebPack** }_
 - [wrte](https://github.com/smokku/wrte) ― microkernel-like environment to run untrusted applications in browser _{ **JavaScript**, **kernel**, **sandbox** }_
@@ -31,13 +31,13 @@ _{ **Rust**, **ECS**, **Physics**, **GUI**, **OpenGL**, **WebGL**, **WASM** }_
 - [tgt](https://github.com/smokku/tgt) ― TextmodeGUIToolkit ― object-oriented library for creating GUI under Linux console _{ **C**, **NCurses**, **TermCap**, **GUI** }_
 
 🕹️ **GameDev**
-- [rust_roguelike_tutorial](https://github.com/smokku/rust_roguelike_tutorial) ― Rust Roguelike Tutorial  _{ **Rust**, **Legion ECS**, **RON prefabs**  }_
 - [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence) ― Networking plugin for Bevy engine _{ **Rust**, **WASM**, **WebRTC**, **UDP** }_
 - [hecs_rapier](https://github.com/smokku/hecs_rapier) ― Physics engine for hecs ECS _{ **Rust**, **Physics**, **ECS** }_
 - [cvar](https://github.com/smokku/cvar) ― Configuration Variables for Rust _{ **Rust** }_
 - [bevy_miniquad](https://github.com/smokku/bevy_miniquad) ― Bevy engine + miniquad render plugin _{ **Rust**, **WebGL**, **WASM** }_
 - [gwg-bindgen](https://github.com/smokku/gwg-bindgen) ― good-web-game + wasm-bindgen example _{ **Rust**, **JavaScript**, **WebAssembly** }_
 - [bevy_doryen](https://github.com/smokku/bevy_doryen) ― Bevy engine + doryen-rs rendering plugin _{ **Rust**, **OpenGL**, **WASM** }_
+- [rust_roguelike_tutorial](https://github.com/smokku/rust_roguelike_tutorial) ― Rust Roguelike Tutorial  _{ **Rust**, **Legion ECS**, **RON prefabs**  }_
 
 <!--
 **smokku/smokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
