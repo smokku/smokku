@@ -2,6 +2,8 @@
 
 ### [<img src="https://x65.zone/media/2025-07-21_DEV-board.png" width="96" title="X65 dev board" /> X65](https://x65.zone/) - Modern 8-bit Microcomputer
 _{ **C**, **Assembly ARM,6502**, **MCU**, **PCB CAD**, **Emulator** for Windows/Linux/Browser,  }_
+### [<img src="https://sgu-1.x65.zone/media/sgu-1-render-gold.png" width="96" title="SGU-1 module" /> SGU-1](https://sgu-1.x65.zone/) - Hybrid Audio Synthesis Chip
+*{ **C**, **Assembly ARM,6502**, **DSP**, **MCU**, **PCB CAD**, **Audio Synthesis**, **Tracker** }*
 ### [<img src="https://github.com/D-os/.github/raw/main/D-os.png" width="96" title="D/os running in QEmu" /> D/os](https://github.com/D-os/) - Operating System for workplace computers
 _{ **C++**, **D**, **Linux Binder**, **Wayland**, **BeOS Next** }_
 ### [<img src="https://github.com/smokku/soldank/raw/master/sshot.png" width="96" title="Soldank on Windows" /> Soldank](https://github.com/smokku/soldank) - Networked Multiplayer Shooter-Platformer game engine
